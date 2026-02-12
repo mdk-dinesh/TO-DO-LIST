@@ -1,0 +1,11 @@
+{
+  "name": "todo-list-python",
+  "version": "1.0.0",
+  "description": "A simple To-Do List application built with Python.",
+  "scripts": {
+    "start": "python -m src.main",
+    "test": "python -m unittest discover tests"
+  },
+  "author": "",
+  "license": "ISC"
+}
